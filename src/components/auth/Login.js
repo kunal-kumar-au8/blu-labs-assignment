@@ -17,7 +17,7 @@ const Login = (props) => {
 
   return (
     <div>
-      <div className='container mt-5 w-25'>
+      <div className='container mt-5 w-auto mw-50'>
         <div className='card border-0 shadow  ml-5'>
           <div className='card-body'>
             <div>
